@@ -1,1 +1,2 @@
-# ruby_tasks
+# There are practical exercises. Written on Ruby
+
